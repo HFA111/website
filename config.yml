@@ -31,35 +31,83 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Google
+        - name: 谷歌
           url: http://www.google.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
+        - name: Facebook
+          url: http://www.facebook.com/
         - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
+          url: http://www.youtube.com/
+        - name: 推特
+          url: http://twitter.com/
+        - name: Googlevideo
+          url: http://googlevideo.com/
+        - name: Instagram
+          url: http://www.instagram.com/
+        - name: 维基百科
+          url: http://www.wikipedia.org/
+        - name: youtu.be
+          url: http://youtu.be/
+        - name: Pinterest
+          url: http://www.pinterest.com/
+        - name: Github
+          url: http://github.com/
+        - name: Vimeo
+          url: http://vimeo.com/
+        - name: Wordpress
+          url: http://wordpress.com/
+        - name: Bitly
+          url: http://bitly.com/
+        - name: Blogspot
+          url: http://www.blogspot.com/
+        - name: Whatsapp
+          url: http://www.whatsapp.com/
+        - name: Reddit
+          url: http://www.reddit.com/
+        - name: Deviantart
+          url: http://www.deviantart.com/
+        - name: Tiktok
+          url: http://www.tiktok.com/
+        - name: Dropbox
+          url: http://www.dropbox.com/
+        - name: Tumblr
+          url: http://www.tumblr.com/
+        - name: Gravatar
+          url: http://gravatar.com/
+        - name: 纽约时报
+          url: http://www.nytimes.com/
+        - name: Flickr
+          url: http://flickr.com/
+        - name: Archive.org
+          url: http://archive.org/
+        - name: Soundcloud
+          url: http://soundcloud.com/
         - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
+          url: http://medium.com/
+        - name: 卫报
+          url: http://www.theguardian.com/
+        - name: bbc.co.uk
+          url: http://www.bbc.co.uk/
+        - name: 福布斯
+          url: http://www.forbes.com/
+        - name: BBC
+          url: http://www.bbc.com/
+        - name: Twitch
+          url: http://www.twitch.tv/
+        - name: Issuu
+          url: http://issuu.com/
+        - name: 华盛顿邮报
+          url: http://www.washingtonpost.com/
+        - name: 每日邮报
+          url: http://www.dailymail.co.uk/
+        - name: 路透社
+          url: http://www.reuters.com/
+        - name: Slideshare
+          url: http://www.slideshare.net/
+        - name: Dailymotion
+          url: http://www.dailymotion.com/
+        - name: Google.co.uk
+          url: http://www.google.co.uk/
+        - name: Discord
+          url: http://discord.com/
+        - name: 彭博社
+          url: http://www.bloomberg.com/
